@@ -70,7 +70,7 @@ double combination(double a, double b) {
 // 팩토리얼
 // 순열, 조합에서 인수를 미리 검사했음
 double factorial(double a) {
-  double i = static_cast<double>(a-1);
+  double i = a-1;
   if (a == 1 || a == 0) return 1;
   while (i > 1) {
     a *= i;
