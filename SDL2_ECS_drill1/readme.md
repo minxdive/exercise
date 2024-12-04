@@ -11,6 +11,6 @@ Bullet => draw 반지름, collision 반지름, 속도, RGB R, G, B, 정N각형, 
   Dave Churchill (Memorial University) <br>
   Computer Science 4300 - Fall 2022 
 
-  Churchill 교수의 강의를 보고, ECS 에 대하여 이해하고, SDL2 로 게임을 만들어봅니다.
+  결과물을 백업하고자 올렸습니다.
 
 https://github.com/user-attachments/assets/1a46ab51-a2a0-4441-9f38-bfb3202f8ba2
