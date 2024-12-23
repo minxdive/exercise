@@ -16,7 +16,7 @@
       2022/12/31 => next, 2023/1/1
 
   year / month / day.
-  date are valid 0/1/1 ~ INT_MAX(2147483647)/12/31.
+  date are valid 1/1/1 ~ INT_MAX(2147483647)/12/31.
 */
 
 #include <iostream>
